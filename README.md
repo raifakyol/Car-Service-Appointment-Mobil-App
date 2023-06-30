@@ -11,8 +11,8 @@
 <br/> 
 <p>It is very easy to make an appointment for the service operations of your vehicles with the service appointment mobile application!</p>
 <br/>
-<p>Download the application from the google play store, create your car's service appointment immediately!
-<b><a href="https://github.com/gilbarbara/logos/blob/main/logos/google-play.svg"><img src="https://play.google.com/store/apps/details?id=com.newrndv&pli=1" style="width:auto;height:150px;"></a></b></p>
+<p>Download the application from the google play store, create your car's service appointment immediately!</p>
+<p><a href="https://github.com/gilbarbara/logos/blob/main/logos/google-play.svg"><img src="https://play.google.com/store/apps/details?id=com.newrndv&pli=1" style="width:auto;height:150px;"></a></p>
 <br/>
 
 
