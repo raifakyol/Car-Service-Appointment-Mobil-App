@@ -5,13 +5,14 @@
   <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" style="height:150px;width:auto;">
   <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" style="height:150px;width:auto;">
   <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" style="height:150px;width:auto;">
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/google-play-console-icon.svg" style="height:150px;width:auto;">
 </p>
 
 <br/> 
 <p>It is very easy to make an appointment for the service operations of your vehicles with the service appointment mobile application!</p>
 <br/>
 <p>Download the application from the google play store, create your car's service appointment immediately!
-<b><a href="https://play.google.com/store/apps/details?id=com.newrndv&pli=1">Download</a></b></p>
+<b><a href="https://github.com/gilbarbara/logos/blob/main/logos/google-play.svg"><img src="https://play.google.com/store/apps/details?id=com.newrndv&pli=1" style="width:auto;height:150px;"></a></b></p>
 <br/>
 
 
