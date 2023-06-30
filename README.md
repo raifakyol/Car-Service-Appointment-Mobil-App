@@ -2,9 +2,9 @@
 
 <br/> 
 <p>It is very easy to make an appointment for the service operations of your vehicles with the service appointment mobile application!</p>
-<br/> <br/> 
+<br/>
 <p>Download the application from the google play store, create your car's service appointment immediately!
-<b><a href="https://play.google.com/store/apps/details?id=com.newrndv&pli=1">Uygulamayı İndir</a></b></p>
+<b><a href="https://play.google.com/store/apps/details?id=com.newrndv&pli=1">Download</a></b></p>
 <br/>
 
 
