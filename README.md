@@ -1,9 +1,8 @@
 # Car-Service-Appointment-Mobil-App
 
-<br/>
 <br/> 
 It is very easy to make an appointment for the service operations of your vehicles with the service appointment mobile application!
-
+<br/> 
 Download the application from the google play store, create your car's service appointment immediately!
 <b><a href="https://play.google.com/store/apps/details?id=com.newrndv&pli=1">Uygulamayı İndir</a></b>
 <br/>
