@@ -11,7 +11,9 @@ Download the application from the google play store, create your car's service a
 
 # Car Service Appointment Home Page 
 <br/>
-<img src="https://github.com/raifakyol/Car-Service-Appointment-Mobil-App/blob/main/image/WhatsApp%20Image%202023-06-30%20at%2014.05.09%20(2).jpeg" style="height:750px;width:auto;">
+<div style="text-align:center;">
+  <img src="https://github.com/raifakyol/Car-Service-Appointment-Mobil-App/blob/main/image/WhatsApp%20Image%202023-06-30%20at%2014.05.09%20(2).jpeg" style="height:750px;width:auto;">
+</div>
 <br/>
 
 # The Process Of Creating Service Appointment
